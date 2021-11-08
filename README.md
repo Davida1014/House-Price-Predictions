@@ -24,7 +24,7 @@ The most significant indicators of price in this model were high house square fo
 Below are visualiztions of house square footage as related to price, square footage of 15 nearest neighbors as related to price, and exponents of grades, all of which show upward trends. This is all reflected in these features' coefficients in the final model.
 
 
-![Screen Shot 2020-12-07 at 12.57.57 AM](https://github.com/Davida1014/House-Price-Predictions/blob/main/Images/Screen%20Shot%202020-12-07%20at%201.08.29%20AM.png?raw=true)
+![grade_exp](https://github.com/Davida1014/House-Price-Predictions/blob/main/Images/grade_exp.png?raw=true)
 ![Screen Shot 2020-12-07 at 12.57.57 AM](https://github.com/Davida1014/House-Price-Predictions/blob/main/Images/Screen%20Shot%202020-12-07%20at%2012.57.57%20AM.png?raw=true)
 ![Screen Shot 2020-12-07 at 12.55.00 AM](https://github.com/Davida1014/House-Price-Predictions/blob/main/Images/Screen%20Shot%202020-12-07%20at%2012.55.00%20AM.png?raw=true)
 
